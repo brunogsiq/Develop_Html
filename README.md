@@ -19,3 +19,6 @@ Integre o HTML com CSS e explore as capacidades do HTML5 para adicionar estilo e
 Aprenda a incorporar vídeos, áudio e outros tipos de conteúdo multimídia em suas páginas HTML. Descubra as melhores práticas para garantir uma experiência de usuário rica e envolvente.
 
 Explore o universo do HTML, onde a criação de páginas web ganha vida. Happy coding! 🚀
+
+
+Mensagem teste - Deverá ser apagada após documentação completa
